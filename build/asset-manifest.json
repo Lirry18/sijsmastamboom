@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/sijsma-stamboom-react/static/css/main.6bffcff8.chunk.css",
+    "main.js": "/sijsma-stamboom-react/static/js/main.ecbc2e00.chunk.js",
+    "main.js.map": "/sijsma-stamboom-react/static/js/main.ecbc2e00.chunk.js.map",
+    "runtime-main.js": "/sijsma-stamboom-react/static/js/runtime-main.91d1afa6.js",
+    "runtime-main.js.map": "/sijsma-stamboom-react/static/js/runtime-main.91d1afa6.js.map",
+    "static/js/2.6ba4b326.chunk.js": "/sijsma-stamboom-react/static/js/2.6ba4b326.chunk.js",
+    "static/js/2.6ba4b326.chunk.js.map": "/sijsma-stamboom-react/static/js/2.6ba4b326.chunk.js.map",
+    "index.html": "/sijsma-stamboom-react/index.html",
+    "precache-manifest.e5da0b63e6cbe5944473403a8af0ac13.js": "/sijsma-stamboom-react/precache-manifest.e5da0b63e6cbe5944473403a8af0ac13.js",
+    "service-worker.js": "/sijsma-stamboom-react/service-worker.js",
+    "static/css/main.6bffcff8.chunk.css.map": "/sijsma-stamboom-react/static/css/main.6bffcff8.chunk.css.map",
+    "static/js/2.6ba4b326.chunk.js.LICENSE.txt": "/sijsma-stamboom-react/static/js/2.6ba4b326.chunk.js.LICENSE.txt",
+    "static/media/barbara.jpeg": "/sijsma-stamboom-react/static/media/barbara.1b9ddcc8.jpeg",
+    "static/media/casper.jpeg": "/sijsma-stamboom-react/static/media/casper.2cf8e3d7.jpeg",
+    "static/media/fay.jpeg": "/sijsma-stamboom-react/static/media/fay.a458be48.jpeg",
+    "static/media/floris.jpeg": "/sijsma-stamboom-react/static/media/floris.63058e8f.jpeg",
+    "static/media/jagger.jpeg": "/sijsma-stamboom-react/static/media/jagger.4314743b.jpeg",
+    "static/media/luka.jpeg": "/sijsma-stamboom-react/static/media/luka.be1ad214.jpeg",
+    "static/media/mila.jpeg": "/sijsma-stamboom-react/static/media/mila.e3fd9d34.jpeg",
+    "static/media/ndedi.jpeg": "/sijsma-stamboom-react/static/media/ndedi.629a7983.jpeg",
+    "static/media/philine.jpeg": "/sijsma-stamboom-react/static/media/philine.42f27277.jpeg",
+    "static/media/ramses.jpeg": "/sijsma-stamboom-react/static/media/ramses.2a5dfdac.jpeg",
+    "static/media/sam.jpeg": "/sijsma-stamboom-react/static/media/sam.bbe6bdde.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91d1afa6.js",
+    "static/js/2.6ba4b326.chunk.js",
+    "static/css/main.6bffcff8.chunk.css",
+    "static/js/main.ecbc2e00.chunk.js"
+  ]
+}
